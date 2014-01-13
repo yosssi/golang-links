@@ -1,1 +1,1 @@
-# Links about Go
+# Links about Golang
