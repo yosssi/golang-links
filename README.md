@@ -1,4 +1,1 @@
-golang-links
-============
-
-Links about Go
+# Links about Go
