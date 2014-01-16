@@ -8,3 +8,4 @@
 * [sbinet/igo](https://github.com/sbinet/igo)
 * [About the go command - The Go Programming Language](http://golang.org/doc/articles/go_command.html)
 * [hfeeki/go-web-frameworks](https://github.com/hfeeki/go-web-frameworks)
+* [How to use interfaces in Go - jordan orelli](http://jordanorelli.tumblr.com/post/32665860244/how-to-use-interfaces-in-go)
